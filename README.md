@@ -40,3 +40,6 @@ npm start
 # ou utilisez cette commande
 node main.js
 ```
+
+## Merci de Star le repo si vous utilisez ce code !
+C'est pas obligatoire mais ça fait toujours plaisir !
